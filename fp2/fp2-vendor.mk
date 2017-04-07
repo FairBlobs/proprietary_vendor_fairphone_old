@@ -32,6 +32,7 @@ PRODUCT_COPY_FILES += \
     vendor/fairphone/fp2/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
     vendor/fairphone/fp2/proprietary/vendor/lib/libNimsWrap.so:system/vendor/lib/libNimsWrap.so \
     vendor/fairphone/fp2/proprietary/vendor/lib/libOpenCL.so:system/vendor/lib/libOpenCL.so \
+    vendor/fairphone/fp2/proprietary/vendor/lib/libQSEEComAPI.so:system/vendor/lib/libQSEEComAPI.so \
     vendor/fairphone/fp2/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
     vendor/fairphone/fp2/proprietary/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
     vendor/fairphone/fp2/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
